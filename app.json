@@ -19,13 +19,13 @@
       "**/*"
     ],
     "ios": {
-      "bundleIdentifier": "dev.notjust.vcrypto",
+      "bundleIdentifier": "crypto",
       "buildNumber": "1.0.3",
       "supportsTablet": true
     },
     "android": {
-      "package": "dev.notjust.vcrypto",
-      "versionCode": 3,
+      "package": "crypto",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#2F68C1"
@@ -34,7 +34,5 @@
     "web": {
       "favicon": "./assets/images/favicon.png"
     },
-    "description": "Virtual Crypto Investment Platform",
-    "githubUrl": "https://github.com/Savinvadim1312/VCrupto"
   }
 }
